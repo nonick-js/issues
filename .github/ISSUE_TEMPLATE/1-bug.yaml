@@ -10,9 +10,9 @@ body:
       label: 問題が発生しているプロダクト
       description: 問題に関係するプロダクトを**1つ以上**選択してください。
       options:
-        - label: Bot
-        - label: Webダッシュボード
-        - label: ドキュメント
+        - Bot
+        - Webダッシュボード
+        - ドキュメント
       multiple: true
     validations:
       required: true
