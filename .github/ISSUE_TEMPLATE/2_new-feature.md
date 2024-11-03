@@ -1,6 +1,6 @@
 ---
 name: 新機能の追加
-about: 新機能の開発に関するIssueを作成
+about: 新機能の開発に関するIssueを作成します。
 labels: "new feature"
 assignees: nonick-mc
 ---
