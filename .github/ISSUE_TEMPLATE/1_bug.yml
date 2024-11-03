@@ -4,18 +4,6 @@ labels: 'bug'
 assignees: 
   - nonick-mc
 body:
-  - type: dropdown
-    id: products
-    attributes:
-      label: 問題が発生しているプロダクト
-      description: 問題に関係するプロダクトを**1つ以上**選択してください。
-      options:
-        - Bot
-        - Webダッシュボード
-        - ドキュメント
-      multiple: true
-    validations:
-      required: true
   - type: input
     id: feature
     attributes: 
@@ -27,6 +15,18 @@ body:
     attributes: 
       label: どのような問題が発生していますか？
       description: 発生している問題について、**できる限り詳細に記入してください。** 必要に応じてスクリーンショットを追加することもできます。
+    validations:
+      required: true
+  - type: dropdown
+    id: products
+    attributes:
+      label: 問題が発生しているプロダクト
+      description: 問題に関係するプロダクトを**1つ以上**選択してください。
+      options:
+        - Bot
+        - Webダッシュボード
+        - ドキュメント
+      multiple: true
     validations:
       required: true
   
