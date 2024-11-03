@@ -13,7 +13,8 @@ assignees: nonick-mc
 
 #### 開発状況
 <!-- ✅プロダクトのタスクを追加した際は、Issueのラベルにプロダクトのラベルを追加することを忘れずに！ -->
-<!-- [ ] [bot](https://github.com/nonick-js/bot) -->
-<!-- [ ] [dashboard](https://github.com/nonick-js/dashboard) -->
-<!-- [ ] [docs](https://github.com/nonick-js/docs) -->
-<!-- [ ] [database](https://github.com/nonick-js/database) -->
+<!-- - [ ] [bot](https://github.com/nonick-js/bot) -->
+<!-- - [ ] [dashboard](https://github.com/nonick-js/dashboard) -->
+<!-- - [ ] [docs](https://github.com/nonick-js/docs) -->
+<!-- - [ ] [database](https://github.com/nonick-js/database) -->
+<!-- - [ ] [web](https://github.com/nonick-js/web) -->
