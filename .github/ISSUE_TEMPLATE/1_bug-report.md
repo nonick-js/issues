@@ -14,7 +14,8 @@ assignees: nonick-mc
 #### 期待される挙動
 <!-- 期待される挙動について、明確かつ簡潔に説明してください。-->
 
-#### タスク
+#### 開発状況
+<!-- ✅プロダクトのタスクを追加した際は、Issueのラベルにプロダクトのラベルを追加することを忘れずに！ -->
 <!-- [ ] [bot](https://github.com/nonick-js/bot) -->
 <!-- [ ] [dashboard](https://github.com/nonick-js/dashboard) -->
 <!-- [ ] [docs](https://github.com/nonick-js/docs) -->
