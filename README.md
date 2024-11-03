@@ -1,2 +1,2 @@
-# issues
-nonick.jsのissueをまとめるリポジトリ
+# NoNICK.js Issues
+NoNICK.jsのIssueやMilestoneをまとめるリポジトリ
