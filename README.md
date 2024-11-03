@@ -1,0 +1,2 @@
+# issues
+nonick.jsのissueをまとめるリポジトリ
