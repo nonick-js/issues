@@ -1,6 +1,6 @@
 ---
 name: バグ報告
-about: 発生している問題に関するIssueを作成
+about: 発生している問題に関するIssueを作成します。
 labels: bug
 assignees: nonick-mc
 ---
